@@ -17,13 +17,7 @@ As part of the lab, you will be given a sandbox AWS environment (filled with sec
 
 You should have some level of familiarity with AWS services such as EC2, VPC, S3, and Security Groups. Exposure to AWS CloudFormation is a bonus. Some experience working with the AWS console is helpful as well.
 
-
-[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](
-https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=D9-Lab&templateURL=https://s3.amazonaws.com/cf-templates-1mqgad319u6vu-us-east-1/D9-Lab-CFT-Aug-2018.json)
-
-
-<b>
-  Scenario</b>
+<b>Scenario</b>
 
 Your company recently performed a lift-and-shift of your production infrastructure into AWS. You are a security administrator and have been tasked with security monitoring within your AWS environment. As part of that, you are also responsible for detecting and fixing any misconfigurations in your environment.
 
@@ -33,7 +27,13 @@ For this workshop you will have multiple EC2 instances (simulating app workloads
 
 
 <b>Region</b>
-Please use the us-west-2 (Oregon) region for this workshop.
+The setup we will use will be in us-west-1 (N.Virginia) region for this workshop.
+
+
+[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](
+https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=D9-Lab&templateURL=https://s3.amazonaws.com/cf-templates-1mqgad319u6vu-us-east-1/D9-Lab-CFT-Aug-2018.json)
+
+
 
 
 <b>Modules</b>
