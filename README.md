@@ -1,2 +1,1 @@
-# dome9-lab template
-cft template for Lab.
+# dome9-labs
