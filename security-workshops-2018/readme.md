@@ -1,5 +1,5 @@
 
-
+# AWS Security Workshop with Dome9 
 This security workshop is designed to help you get familiar with common security misconfigurations in AWS and learn how to identify and remediate threats in your environment as you scale your workloads in the cloud.
 
 As part of the lab, you will be given a sandbox AWS environment (filled with security exposures!) to explore and learn how you can use Dome9 to easily detect and remediate common security challenges.
