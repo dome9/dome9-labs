@@ -23,7 +23,7 @@ Your company recently performed a lift-and-shift of your production infrastructu
 
 <b>Architecture Overview</b>
 
-For this workshop you will have multiple EC2 instances (simulating app workloads, RDS databases) and services such as ELBs, ALBs, S3 buckets etc setup in the us-west-2 region and your team has configured the security group rules and microsegmentation policies for the respective services.
+For this workshop you will have multiple EC2 instances (simulating app workloads, RDS databases) and services such as ELBs, ALBs, S3 buckets etc setup in the us-west-1 region and your team has configured the security group rules and microsegmentation policies for the respective services.
 
 
 <b>Region</b>
