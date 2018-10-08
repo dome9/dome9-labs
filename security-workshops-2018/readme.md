@@ -19,7 +19,7 @@ You should have some level of familiarity with AWS services such as EC2, VPC, S3
 
 <b>Scenario</b>
 
-Your company recently performed a lift-and-shift of your production infrastructure into AWS. You are a security administrator and have been tasked with security monitoring within your AWS environment. As part of that, you are also responsible for detecting any misconfigurations environment.
+Your company recently performed a lift-and-shift of your production infrastructure into AWS. You are a security administrator and have been tasked with security monitoring within your AWS environment. As part of that, you are also responsible for detecting and fixing any misconfigurations in your environment.
 
 <b>Architecture overview</b>
 
