@@ -30,11 +30,11 @@ Please use the us-west-2 (Oregon) region for this workshop.
 
 
 <b>Modules</b>
-Lab Overview and AWS Setup (10 -15 min)
-AWS Security Operations Lab (30 min)
-Dome9 Overview and Onboarding (10 -15 min)
-Security Posture Management Lab (20 min)
-S3 Security Lab (20 min)
-Offboarding (5 min)
+1. Lab Overview and AWS Setup (10 -15 min)
+2. AWS Security Operations Lab (30 min)
+3. Dome9 Overview and Onboarding (10 -15 min)
+4. Security Posture Management Lab (20 min)
+5. S3 Security Lab (20 min)
+6. Offboarding (5 min)
 
 Total time: ± 2 hours
