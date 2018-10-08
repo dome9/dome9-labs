@@ -17,9 +17,9 @@ As part of the lab, you will be given a sandbox AWS environment (filled with sec
 
 You should have some level of familiarity with AWS services such as EC2, VPC, S3, and Security Groups. Exposure to AWS CloudFormation is a bonus. Some experience working with the AWS console is helpful as well.
 
-https://console.aws.amazon.com/cloudformation/home?region=region#/stacks/new?stackName=stack_name&templateURL=template_location
 
-[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=buildkite&templateURL=https://s3.amazonaws.com/my-great-stack.json)
+[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](
+https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=D9-Lab&templateURL=https://s3.amazonaws.com/cf-templates-1mqgad319u6vu-us-east-1/D9-Lab-CFT-Aug-2018.json)
 
 
 <b>
