@@ -6,11 +6,12 @@ As part of the lab, you will be given a sandbox AWS environment (filled with sec
 
 <b>Format</b>
 
-Overview presentation and lab setup, followed by paced exercises with a section recap.
-
-<b>Target Audience:</b> Technical security users (security engineers, architects, DevOps) who have heard of Dome9 and know what Dome9 offers
+Overview presentation and lab setup, followed by paced exercises with a section recap. 
 The organizing team is comprised of one speaker and 1-2 technical staff to help out and answer questions
 Participants bring their own laptops and have an AWS account setup (preferably beforehand) - Please do this early on since it takes a few hours for a new AWS account to sync with a CFT template
+
+
+<b>Target Audience:</b> Technical security users (security engineers, architects, DevOps) who have heard of Dome9 and know what Dome9 offers
 
 <b>Prerequisites</b>
 
