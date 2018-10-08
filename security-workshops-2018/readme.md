@@ -21,7 +21,7 @@ You should have some level of familiarity with AWS services such as EC2, VPC, S3
 
 Your company recently performed a lift-and-shift of your production infrastructure into AWS. You are a security administrator and have been tasked with security monitoring within your AWS environment. As part of that, you are also responsible for detecting and fixing any misconfigurations in your environment.
 
-<b>Architecture overview</b>
+<b>Architecture Overview</b>
 
 For this workshop you will have multiple EC2 instances (simulating app workloads, RDS databases) and services such as ELBs, ALBs, S3 buckets etc setup in the us-west-2 region and your team has configured the security group rules and microsegmentation policies for the respective services.
 
