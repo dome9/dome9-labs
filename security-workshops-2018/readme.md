@@ -17,7 +17,13 @@ As part of the lab, you will be given a sandbox AWS environment (filled with sec
 
 You should have some level of familiarity with AWS services such as EC2, VPC, S3, and Security Groups. Exposure to AWS CloudFormation is a bonus. Some experience working with the AWS console is helpful as well.
 
-<b>Scenario</b>
+https://console.aws.amazon.com/cloudformation/home?region=region#/stacks/new?stackName=stack_name&templateURL=template_location
+
+[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=buildkite&templateURL=https://s3.amazonaws.com/my-great-stack.json)
+
+
+<b>
+  Scenario</b>
 
 Your company recently performed a lift-and-shift of your production infrastructure into AWS. You are a security administrator and have been tasked with security monitoring within your AWS environment. As part of that, you are also responsible for detecting and fixing any misconfigurations in your environment.
 
