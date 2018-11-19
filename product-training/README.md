@@ -18,11 +18,11 @@ https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?
 
 
 <b>Modules</b>
-1. Lab Overview (10 -15 min)
+1. Lab Overview 
 2. Dome9 Overview and Onboarding
-3. Dome9 Clarity for Network Visualization (30 min)
-4. Compliance and Governance (20 min)
-5. Dynamic Access Leasing (20 min)
-6. Offboarding (5 min)
+3.  Network Visualization 
+4. Compliance and Governance
+5. Dynamic Access Leasing
+6. Offboarding
 
 Total time: ± 2 hours
