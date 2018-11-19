@@ -1,6 +1,6 @@
 
 # Dome9 101 Hands on lab
-This security lab is designed for an overview of Dome9 security and compliance solution in AWS
+This security lab is designed for an overview of Dome9 security and compliance solution in AWS. Please refer to the Dome9 workbook guide for an indepth walkthrough and step by step exercises.
 
 <b>Architecture Overview</b>
 
