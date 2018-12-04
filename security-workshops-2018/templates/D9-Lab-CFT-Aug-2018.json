@@ -6,7 +6,7 @@
       "Type": "String",
       "MinLength": "12",
       "MaxLength": "12",
-      "Default": "ami-0b59bfac6be064b78",
+      "Default": "ami-14c5486b",
       "AllowedPattern": "ami-.*",
       "ConstraintDescription": "must start with ami-*"
     },
