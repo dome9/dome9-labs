@@ -11,10 +11,7 @@ For this workshop you will have multiple EC2 instances (simulating app workloads
 The setup we will use will be in us-west-1 (N.Virginia) region for this workshop.
 
 
-[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](
-https://s3.amazonaws.com/cf-templates-1mqgad319u6vu-us-east-1/D9-Lab-CFT-Aug-2018.json)
-
-
+[![Launch Stack](https://cdn.rawgit.com/buildkite/cloudformation-launch-stack-button-svg/master/launch-stack.svg)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=D9-Lab&templateURL=https://s3.amazonaws.com/cf-templates-1mqgad319u6vu-us-east-1/D9-Lab-CFT-Aug-2018.json)
 
 
 <b>Modules</b>
